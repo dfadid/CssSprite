@@ -1,15 +1,18 @@
 css sprite generator 
 
+generate file of css format along with the merged image
+
 the project written with Clojure.
 
 how to use:
 
-1) make sure you have Eclipse for java with Counterclockwise plugin/
+1) make sure you have Eclipse for java with Counterclockwise plugin
 
 2)import the projecrt (the zip file) to eclipse
 
-3)load th REPL 
+3)load the REPL 
 
-4) run the program with "(-main "images//test1")" (or place a directory of your own images)
+4) run the program with "(-main "images//test1")"  from the PEPL 
+   (or place youre own directory of PNG file within "images" directory)
 
 
